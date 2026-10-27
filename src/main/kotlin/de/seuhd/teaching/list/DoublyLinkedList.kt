@@ -86,7 +86,7 @@ class DoublyLinkedList {
         end = null
         length = 0
     }
-    
+
     /**
      * Returns 'true' if this list is empty, 'false' otherwise.
      * 
